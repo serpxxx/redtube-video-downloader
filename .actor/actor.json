@@ -1,7 +1,7 @@
 {
   "actorSpecification": 1,
   "buildTag": "latest",
-  "description": "Download videos from Redtube in MP4 format for offline viewing. This browser extension automatically detects Redtube videos on standard pages, regional domains, and embedded players, showing you all available quality options.\n\nChoose your preferred resolution and the extension saves the video directly to your computer. Clear progress indicators show download status, and all files are saved as standard MP4s you can watch anytime without ads or buffering.\n\nAll processing happens locally in your browser. Works with Chrome, Edge, Firefox, Brave, and Opera on Windows, macOS, and Linux.",
+  "description": "RedTube Downloader detects supported RedTube video sources, shows the available quality options, and exports the selected stream as MP4 for offline playback directly in your browser.",
   "input": "./INPUT_SCHEMA.json",
   "name": "redtube-video-downloader",
   "readme": "../ACTOR.md",
