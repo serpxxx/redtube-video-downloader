@@ -121,7 +121,7 @@ The extension only works on media you can already open and play in your active b
 
 ## Installation Instructions
 
-1. Open the latest release page: [GitHub Releases](https://github.com/serpapps/redtube-video-downloader/releases/latest)
+1. Open the latest release page: [GitHub Releases](https://github.com/serpxxx/redtube-video-downloader/releases/latest)
 2. Download the build for your browser.
 3. Install the extension.
 4. Open a RedTube video page.
