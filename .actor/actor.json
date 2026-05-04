@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "redtube-video-downloader",
   "readme": "../ACTOR.md",
-  "title": "RedTube Downloader",
+  "title": "RedTube Video Downloader | How to Download RedTube Videos",
   "version": "0.0"
 }
